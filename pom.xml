@@ -10,7 +10,7 @@
     <parent>
         <groupId>com.proofpoint.platform</groupId>
         <artifactId>rest-server-base</artifactId>
-        <version>0.41-SNAPSHOT</version>
+        <version>0.43</version>
     </parent>
     <properties>
         <main-class>com.proofpoint.mysql.Main</main-class>
